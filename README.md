@@ -1,5 +1,5 @@
-# Firebase Web Codelab - Start code
+# FriendlyChat
 
-This folder contains the starting code for the [Firebase: Build a Real Time Web Chat App Codelab](https://codelabs.developers.google.com/codelabs/firebase-web/).
+This is a group chat platform made with Firebase Cloud Messaging service.
 
-If you'd like to jump directly to the end and see the finished code head to the [web](../web) directory.
+Try it on https://friendlychat-88717.firebaseapp.com/
